@@ -17,9 +17,10 @@
 
 - 엣지가 뚜렷하고 색상이 선명한 이미지가 가장 좋은 결과를 보입니다.
 
-- 예제  
-<img src="https://github.com/user-attachments/assets/2684912b-0073-4cc3-afae-7353356febe8" width="500" height="500"/>
-
+- 예제🌸
+<img src="https://github.com/user-attachments/assets/160c2f39-e66e-4a7a-afdd-3b393e5c0a63" width="400" height="400"/>
+  &rarr;
+<img src="https://github.com/user-attachments/assets/2684912b-0073-4cc3-afae-7353356febe8" width="400" height="400"/>
 
 ### ❌ 만화 스타일 변환이 잘 안 된 이미지:
 
@@ -27,9 +28,9 @@
 
 - 흐릿한 이미지는 엣지 디테일이 부족하여 효과가 떨어집니다.
 
-- 예제  
-<img src="https://github.com/user-attachments/assets/5853038d-5f68-4c36-b797-6f224366bb64" width="500" height="500"/>  
-<img src="https://github.com/user-attachments/assets/f44b6995-6af0-43f1-8dee-4b82a3d78385" width="500" height="500"/>
+- 예제🌳 🧑‍🔬  
+<img src="https://github.com/user-attachments/assets/5853038d-5f68-4c36-b797-6f224366bb64" width="400" height="400"/>  
+<img src="https://github.com/user-attachments/assets/f44b6995-6af0-43f1-8dee-4b82a3d78385" width="400" height="400"/>
 
 ### ⚠️ 한계점
 
